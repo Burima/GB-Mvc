@@ -126,6 +126,9 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="BE\EmailMessageBody.cs" />
+    <Compile Include="BE\SendMail.cs" />
+    <Compile Include="BE\User.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -173,6 +176,7 @@
     <Content Include="Images\team\1.JPG" />
     <Content Include="Images\team\2.jpg" />
     <Content Include="Images\team\3.jpg" />
+    <Content Include="MailMessageBody.html" />
     <Content Include="Scripts\agency.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -238,6 +242,9 @@
     <Content Include="Content\less\agency.less" />
     <Content Include="Content\less\mixins.less" />
     <Content Include="Content\less\variables.less" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\PublishProfiles\Gaddibaba-Deployment.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

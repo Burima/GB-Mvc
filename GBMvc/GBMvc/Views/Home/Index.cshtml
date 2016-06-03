@@ -24,6 +24,76 @@
     <![endif]-->
 </head>
 <body id="page-top" class="index">
+
+   
+
+    @*<div id="TaskListDialog" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="windowTitleLabel">
+        <div class="modal-header">
+            <h3>Task List</h3>
+        </div>
+        <div class="modal-body">
+            <div class="tabbable">
+                
+                <ul class="nav nav-tabs">
+                    <li class="active"><a href="#tab1" data-toggle="tab">Section 1</a></li>
+                    <li><a href="#tab2" data-toggle="tab">Section 2</a></li>
+                </ul>
+                <div class="tab-content">
+                    <div class="tab-pane active" id="tab1">
+                        Data 1
+                    </div>
+                    <div class="tab-pane" id="tab2">
+                        <p>Data 2.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <a href="#" class="btn btn-primary" onclick="CloseTaskList();">Close</a>
+        </div>
+    </div>*@
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Partner with Gaddibaba</h4>
+                </div>
+                <div class="modal-body">
+                    <div>
+
+                        <!-- Nav tabs -->
+                        <ul class="nav nav-tabs" role="tablist">
+                            <li role="presentation" class="active"><a href="#owner" aria-controls="owner" role="tab" data-toggle="tab">I am an owner</a></li>
+                            <li role="presentation"><a href="#driver" aria-controls="driver" role="tab" data-toggle="tab">I am a driver</a></li>
+                            
+                        </ul>
+
+                        <!-- Tab panes -->
+                        <div class="tab-content">
+                            <!--tab Owner-->
+                            <div role="tabpanel" class="tab-pane active" id="owner">
+
+                            </div><!--end tab Owner-->
+                            <!-- tab Driver-->
+                            <div role="tabpanel" class="tab-pane" id="driver">
+
+                            </div><!-- end tab Driver-->
+                            
+                        </div>
+
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    @*<button type="button" class="btn btn-primary">Save changes</button>*@
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
@@ -57,6 +127,13 @@
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                    <li>
+                        @*<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">Partner with us</a>*@
+                        <!-- Button trigger modal -->
+                        <a class="btn btn-xl" data-toggle="modal" data-target="#myModal">
+                            Partner with us
+                        </a>
                     </li>
                 </ul>
             </div>
@@ -477,7 +554,7 @@
     <!-- Portfolio Modals -->
     <!-- Use the modals below to showcase details about your portfolio projects! -->
     <!-- Portfolio Modal 1 -->
-    <!--<div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+    @*<div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -507,7 +584,7 @@
                 </div>
             </div>
         </div>
-    </div>-->
+    </div>*@
     <!-- Portfolio Modal 2 -->
     <!--<div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">

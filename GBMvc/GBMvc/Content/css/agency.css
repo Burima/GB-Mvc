@@ -865,3 +865,15 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+/* button at nav by Liakat 19-May-2016*/
+.navbar-nav .btn-xl{
+    font-size:14px !important;
+}
+
+.navbar-nav .btn-xl:hover{
+    font-size:14px !important;
+    border-color: #f6bf01 !important;
+    color: #fff !important;
+    background-color: #fec503 !important;
+}

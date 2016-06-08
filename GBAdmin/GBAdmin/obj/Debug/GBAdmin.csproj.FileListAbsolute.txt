@@ -53,7 +53,6 @@ C:\Users\Ali\Desktop\New folder (2)\MvcDefault\bin\Microsoft.Owin.Security.Micro
 C:\Users\Ali\Desktop\New folder (2)\MvcDefault\obj\Debug\GBAdmin.csprojResolveAssemblyReference.cache
 C:\Users\Ali\Desktop\New folder (2)\MvcDefault\obj\Debug\MvcDefault.dll
 C:\Users\Ali\Desktop\New folder (2)\MvcDefault\obj\Debug\MvcDefault.pdb
-F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\obj\Debug\GBAdmin.csprojResolveAssemblyReference.cache
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\GBAdmin.dll.config
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\GBAdmin.dll
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\GBAdmin.pdb
@@ -108,5 +107,6 @@ F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\Microsoft.Owin.Security.Faceb
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\Microsoft.Owin.Security.Google.xml
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\Microsoft.Owin.Security.Twitter.xml
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\obj\Debug\GBAdmin.csprojResolveAssemblyReference.cache
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\obj\Debug\GBAdmin.dll
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\obj\Debug\GBAdmin.pdb

@@ -101,7 +101,6 @@ F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\System.Web.WebPages.xml
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\System.Web.WebPages.Deployment.xml
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\System.Web.WebPages.Razor.xml
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\Newtonsoft.Json.xml
-F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\Antlr3.Runtime.pdb
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\Microsoft.Owin.Host.SystemWeb.xml
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\Microsoft.Owin.Security.Facebook.xml
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\Microsoft.Owin.Security.Google.xml
@@ -110,3 +109,4 @@ F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\Microsoft.Owin.Security.Micro
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\obj\Debug\GBAdmin.csprojResolveAssemblyReference.cache
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\obj\Debug\GBAdmin.dll
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\obj\Debug\GBAdmin.pdb
+F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin\bin\Antlr3.Runtime.xml

@@ -48,7 +48,8 @@ namespace GBAdmin.Controllers
         [AllowAnonymous]
         public ActionResult Index()
         {
-            return View(accountViewModel);
+            //return View(accountViewModel);
+            return RedirectToAction("Login", "Account");
         }
 
         //
@@ -142,7 +143,7 @@ namespace GBAdmin.Controllers
             }
 
             // If we got this far, something failed, redisplay form
-            return View("Login", model);
+            return View("Login", new LoginViewModel());
         }
 
         //

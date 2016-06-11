@@ -1,6 +1,6 @@
-F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\bin\Debug\LYSAdmin.Model.dll.config
-F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\bin\Debug\LYSAdmin.Model.dll
-F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\bin\Debug\LYSAdmin.Model.pdb
+F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\bin\Debug\GBAdmin.Membership.dll.config
+F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\bin\Debug\GBAdmin.Membership.dll
+F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\bin\Debug\GBAdmin.Membership.pdb
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\bin\Debug\EntityFramework.dll
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\bin\Debug\EntityFramework.SqlServer.dll
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\bin\Debug\Microsoft.AspNet.Identity.Core.dll
@@ -22,5 +22,6 @@ F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\bin\Debug\Microsoft.Ow
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\bin\Debug\Microsoft.Owin.Security.OAuth.xml
 F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\bin\Debug\Newtonsoft.Json.xml
-F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\obj\Debug\LYSAdmin.Model.dll
-F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\obj\Debug\LYSAdmin.Model.pdb
+F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\obj\Debug\GBAdmin.Membership.csprojResolveAssemblyReference.cache
+F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\obj\Debug\GBAdmin.Membership.dll
+F:\GitHub\Gaddibaba-Mvc\GB-Mvc\GBAdmin\GBAdmin.Membership\obj\Debug\GBAdmin.Membership.pdb

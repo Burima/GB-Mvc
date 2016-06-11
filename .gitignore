@@ -1,1 +1,3 @@
-GBAdmin/GBAdmin/Models/Class1.cs
+*.user
+*.suo
+*.v12.suo
